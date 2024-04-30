@@ -1,0 +1,3 @@
+export enum HINTS {
+  REDIRECT_TO_REGISTER = 'REDIRECT_TO_REGISTER',
+}

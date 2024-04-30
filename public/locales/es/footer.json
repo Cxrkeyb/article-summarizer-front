@@ -1,0 +1,27 @@
+{
+  "communityContent": {
+    "communityTitle": "Recibe ayuda de parte de Flummy",
+    "communityDescription": "Haz preguntas, comparte tus conocimientos e inspírate con otros usuarios, apoyando todo este entorno Flummy, del que tú eres el principal beneficiario."
+  },
+  "linkedin": {
+    "title": "LinkedIn",
+    "description": "Descubre cómo nuestra empresa impulsa la innovación y crea soluciones excepcionales. Conéctate con nosotros para seguir de cerca nuestras actualizaciones y oportunidades de colaboración.",
+    "linkText": "Ir a LinkedIn"
+  },
+  "facebook": {
+    "title": "Facebook",
+    "description": "Explora el mundo innovador de Flummy. Aquí compartimos noticias, eventos y detalles sobre nuestras soluciones creativas. Únete a la conversación y sé testigo de la vanguardia en acción.",
+    "linkText": "Ir a Facebook"
+  },
+  "gitHub": {
+    "title": "GitHub",
+    "description": "Descubre el código fuente detrás de las soluciones innovadoras de Flummy en nuestro repositorio de GitHub. Explora nuestros proyectos y contribuye a nuestro desarrollo. Gracias por ser parte de nuestra comunidad.",
+    "linkText": "Ir a GitHub"
+  },
+  "startBuildYourDreams": "Empieza a construir tus sueños",
+  "howToFlummyHelpYou": "¿Tiene curiosidad por saber cómo puede ayudarle Flummy? Hablemos.",
+  "footerTitle": "Transformando Ideas en Tecnología Innovadora",
+  "footerDescription": "Comparte tus metas comerciales con nosotros y obtén asesoramiento inicial de uno de nuestros expertos consultores en tecnología, diseño y comercio electrónico. En nuestro equipo comercial, nos especializamos en impulsar tu visión y llevar tus proyectos al siguiente nivel.",
+  "privacyPolicy": "Políticas de privacidad",
+  "rightsReserved": "Derechos reservados Flummy® ©{{year}}"
+}

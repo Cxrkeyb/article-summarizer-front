@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "english": "Inglés",
+    "french": "Francés",
+    "german": "Alemán",
+    "spanish": "Español",
+    "portuguese": "Portugués",
+    "russian": "Ruso",
+    "japanese": "Japonés",
+    "korean": "Coreano",
+    "chinese": "Chino",
+    "select": "Seleccionar idioma",
+    "notFound": "Idioma no encontrado"
+  },
+  "serviceTypes": {
+    "digitalExperiencePlatform": "Plataforma de Experiencia Digital",
+    "digitalCommerce": "Comercio Digital",
+    "customSoftwareDevelopment": "Desarrollo de Software Personalizado",
+    "customAppDevelopment": "Desarrollo de Aplicaciones Personalizadas",
+    "digitalMarketing": "Marketing Digital",
+    "digitalProductConsulting": "Consultoría de Productos Digitales",
+    "digitalTransformation": "Transformación Digital",
+    "digitalEcosystem": "Ecosistema Digital",
+    "other": "Otro",
+    "select": "Seleccionar tipo de servicio",
+    "notFound": "Tipo de servicio no encontrado"
+  },
+  "companyTypes": {
+    "enterprise": "Empresa",
+    "midMarket": "Medio Mercado",
+    "startup": "Puesta en marcha",
+    "nonProfit": "Sin fines de lucro",
+    "other": "Otro",
+    "select": "Seleccionar tipo de empresa",
+    "notFound": "Tipo de empresa no encontrado"
+  },
+  "companySizes": {
+    "select": "Seleccionar tamaño de empresa",
+    "notFound": "Tamaño de empresa no encontrado"
+  },
+  "topicNeeds": {
+    "select": "Seleccionar necesidad de tema",
+    "uxDesign": "Diseño de UX",
+    "uiDesign": "Diseño de UI",
+    "frontendDevelopment": "Desarrollo Frontend",
+    "backendDevelopment": "Desarrollo Backend",
+    "mobileDevelopment": "Desarrollo Móvil",
+    "webDevelopment": "Desarrollo Web",
+    "cloudServices": "Servicios en la nube",
+    "devOps": "DevOps",
+    "other": "Otro",
+    "notFound": "Necesidad de tema no encontrada"
+  }
+}

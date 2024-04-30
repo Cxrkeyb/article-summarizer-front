@@ -1,0 +1,43 @@
+{
+  "h1": "Un ejemplo sencillo",
+  "intro": {
+    "p1": "Estás un paso más cerca de",
+    "p2": "hacer tu sueño realidad",
+    "p3": "Logra tus metas y supera tus retos con nosotros,",
+    "p4": "somos tu mejor opción."
+  },
+  "contactUs": "Contáctanos",
+  "isFree": "- Es gratis!",
+  "digitalTransformation": {
+    "unlockDigitalTransformation": "¡Desbloquea el poder de la Transformación Digital!",
+    "revolutionizeYourBusiness": "¡Revoluciona tu negocio",
+    "digitalConfidence": "y navega por el panorama digital con confianza!"
+  },
+  "ourCoreCapabilities": "Nuestras capacidades principales",
+  "webDevelopment": {
+    "title": "Desarrollo Web",
+    "description": "Creamos aplicaciones web rápidas, seguras y escalables que se adaptan a tus necesidades específicas."
+  },
+  "aiConsulting": {
+    "title": "Consultoría de IA",
+    "description": "Te asesoramos en el uso de la inteligencia artificial para mejorar tus procesos y tomar decisiones acertadas."
+  },
+  "computerVisionSolutions": {
+    "title": "Soluciones de Visión por Computadora",
+    "description": "Desarrollamos soluciones avanzadas de visión por computadora para analizar y comprender el mundo visual de manera eficiente."
+  },
+  "nlpSolutions": {
+    "title": "Soluciones de Procesamiento de Lenguaje Natural (NLP)",
+    "description": "Implementamos soluciones de procesamiento de lenguaje natural para mejorar la comunicación y la interacción con tus clientes."
+  },
+  "generativeAISolutions": {
+    "title": "Soluciones de IA Generativa",
+    "description": "Creamos soluciones de inteligencia artificial generativa para generar contenido creativo de manera automatizada."
+  },
+  "enterpriseSoftwareDevelopment": {
+    "title": "Desarrollo de Software Empresarial",
+    "description": "Desarrollamos software empresarial personalizado que optimiza tus procesos y impulsa el crecimiento de tu empresa."
+  },
+  "pageNotFound": "La página que buscas no existe o no está disponible",
+  "goHome": "Volver al inicio"
+}

@@ -1,0 +1,85 @@
+{
+  "hiFlummy": "¡Hola Flummy!",
+  "questions": {
+    "name": {
+      "title": "¿Cómo te llamas?",
+      "placeholder": "Escribe tu nombre aquí..."
+    },
+    "firstName": {
+      "title": "¿Cuál es tu nombre?",
+      "placeholder": "Escribe tu nombre aquí..."
+    },
+    "lastName": {
+      "title": "¿Cuál es tu apellido?",
+      "placeholder": "Escribe tu apellido aquí..."
+    },
+    "email": {
+      "title": "¿Cuál es tu correo electrónico?",
+      "placeholder": "Escribe tu correo electrónico aquí..."
+    },
+    "phone": {
+      "title": "o ¿Cuál es tu número de teléfono?",
+      "placeholder": "Escribe tu número de teléfono aquí..."
+    },
+    "country": {
+      "title": "¿De qué país eres?",
+      "placeholder": "Escribe tu país aquí..."
+    },
+    "language": {
+      "title": "¿Cuál es tu idioma?",
+      "placeholder": "Selecciona tu idioma"
+    },
+    "companyName": {
+      "title": "¿Cuál es el nombre de tu empresa?",
+      "placeholder": "Escribe el nombre de tu empresa aquí..."
+    },
+    "jobTitle": {
+      "title": "¿Cuál es tu cargo?",
+      "placeholder": "Escribe tu cargo aquí..."
+    },
+    "workEmail": {
+      "title": "¿Cuál es tu correo electrónico laboral?",
+      "placeholder": "Escribe tu correo electrónico laboral aquí..."
+    },
+    "howHearUs": {
+      "title": "¿Cómo nos conociste?",
+      "placeholder": "Selecciona una opción"
+    },
+    "companyType": {
+      "title": "¿Cuál es el tipo de tu empresa?",
+      "placeholder": "Selecciona una opción"
+    },
+    "companySize": {
+      "title": "¿Cuántos empleados tiene tu empresa?",
+      "placeholder": "Selecciona una opción"
+    },
+    "topicNeeds": {
+      "title": "¿De qué tema necesitas ayuda?",
+      "placeholder": "Selecciona una opción"
+    },
+    "case": {
+      "title": "¿Cuál es tu caso?",
+      "description": "Por favor, describe tu caso en detalle. Cuanta más información proporciones, mejor podremos ayudarte.",
+      "placeholder": "Selecciona una opción"
+    }
+  },
+  "submit": "Enviar",
+  "interestedIn": "¿Estás interesado en?",
+  "digitalExperiencePlataform": "Plataforma de Experiencia Digital",
+  "digitalCommerce": "Comercio Digital",
+  "customSoftwareDevelopment": "Desarrollo de Software Personalizado",
+  "customAppDevelopment": "Desarrollo de Aplicaciones Personalizadas",
+  "digitalMarketing": "Marketing Digital",
+  "digitalProductConsulting": "Consultoría de Productos Digitales",
+  "digitalTransformation": "Transformación Digital",
+  "digitalEcosystem": "Ecosistema Digital",
+  "other": "Otro",
+  "anyIdeasToShare": "¿Tienes alguna idea que quieras compartir?",
+  "anyIdeasToSharePlaceholder": "Adjunte un resumen del proyecto o material relevante relativo a su proyecto...",
+  "anyIdeasDescription": "Compartir ideas mejora la consulta y realización de proyectos.",
+  "acceptTerms": "Acepto los términos y condiciones",
+  "yourAgree": "Usted acepta nuestras Condiciones de servicio y nuestra Política de privacidad.",
+  "contactSales": "Contactar a Ventas",
+  "contactDescription": "Conéctese con nuestro equipo de ventas para ver cómo los planes Enterprise o Teams pueden ayudar a su equipo a crear y lanzar agentes de IA, a escala.",
+  "productSupport": "¿Soporte del producto? Envíenos un correo electrónico a"
+}

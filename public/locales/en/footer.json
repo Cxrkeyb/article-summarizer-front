@@ -1,0 +1,27 @@
+{
+  "communityContent": {
+    "communityTitle": "Receive help from Flummy",
+    "communityDescription": "Ask questions, share your knowledge and get inspired by other users, supporting the whole Flummy environment, of which you are the main beneficiary."
+  },
+  "linkedin": {
+    "title": "LinkedIn",
+    "description": "Explore how our company drives innovation and creates exceptional solutions. Connect with us to stay updated on our latest developments and collaboration opportunities.",
+    "linkText": "See LinkedIn"
+  },
+  "facebook": {
+    "title": "Facebook",
+    "description": "Explore the innovative world of Flummy. We share news, events, and details about our creative solutions. Join the conversation and witness cutting-edge innovation in action.",
+    "linkText": "See Facebook"
+  },
+  "gitHub": {
+    "title": "GitHub",
+    "description": "Explore the source code behind Flummy's innovative solutions on our GitHub repository. Dive into our projects and contribute to our development. Thank you for being part of our community.",
+    "linkText": "See GitHub"
+  },
+  "startBuildYourDreams": "Start building your dreams",
+  "howToFlummyHelpYou": "Curious how Flummy can help you? Let’s talk.",
+  "footerTitle": "Transforming Ideas into Innovative Technology",
+  "footerDescription": "Share your business goals with us and get initial advice from one of our expert technology, design and e-commerce consultants. In our commercial team, we specialize in driving your vision and taking your projects to the next level.",
+  "privacyPolicy": "Privacy Policy",
+  "rightsReserved": "All rights reserved Flummy® ©{{year}}"
+}

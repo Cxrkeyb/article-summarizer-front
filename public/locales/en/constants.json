@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "english": "English",
+    "french": "French",
+    "german": "German",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese",
+    "russian": "Russian",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "chinese": "Chinese",
+    "select": "Select language",
+    "notFound": "No language found"
+  },
+  "serviceTypes": {
+    "digitalExperiencePlatform": "Digital Experience Platform",
+    "digitalCommerce": "Digital Commerce",
+    "customSoftwareDevelopment": "Custom Software Development",
+    "customAppDevelopment": "Custom App Development",
+    "digitalMarketing": "Digital Marketing",
+    "digitalProductConsulting": "Digital Product Consulting",
+    "digitalTransformation": "Digital Transformation",
+    "digitalEcosystem": "Digial Ecosystem",
+    "other": "Other",
+    "select": "Select service type",
+    "notFound": "No service type found"
+  },
+  "companyTypes": {
+    "enterprise": "Enterprise",	
+    "midMarket": "Mid-Market",
+    "startup": "Startup",
+    "nonProfit": "Non-Profit",
+    "other": "Other",
+    "select": "Select company type",
+    "notFound": "No company type found"
+  },
+  "companySizes": {
+    "select": "Select company size",
+    "notFound": "No company size found"
+  },
+  "topicNeeds": {
+    "select": "Select topic need",
+    "uxDesign": "UX Design",
+    "uiDesign": "UI Design",
+    "frontendDevelopment": "Frontend Development",
+    "backendDevelopment": "Backend Development",
+    "mobileDevelopment": "Mobile Development",
+    "webDevelopment": "Web Development",
+    "cloudServices": "Cloud Services",
+    "devOps": "DevOps",
+    "other": "Other",
+    "notFound": "No topic need found"
+  }
+}

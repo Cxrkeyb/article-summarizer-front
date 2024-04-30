@@ -1,0 +1,29 @@
+{
+  "firstSteps": "First steps",
+  "firstStepsContent": {
+    "flummy": "Flummy",
+    "flummyDescription": "Optimize your processes, boost efficiency and strengthen internal collaboration.",
+    "userGuide": "User's Guide",
+    "userGuideDescription": "Find out how Flummy can improve your processes.",
+    "trajectory": "Trajectory",
+    "trajectoryDescription": "Flummy has helped many companies throughout its history, know how we have done it.",
+    "vision": "Vision",
+    "visionDescription": "Learn about our vision and how we want to help companies become more efficient."
+  },
+  "community": "Community",
+  "communityContent": {
+    "whatsAppDescription": "Unlock the potential of Flummy through WhatsApp. Let's chat and take your project to the next level! 🤝 Schedule a meeting to explore how we can together turn your dreams into reality. At Flummy, we don't just build projects; we create success stories. Join the conversation now! ",
+    "instagramDescription": "Dive into the world of Flummy on Instagram! 🚀 Join us for a visual journey filled with creative inspiration, behind-the-scenes glimpses, and exciting project updates. Follow us to stay connected with the magic of Flummy!",
+    "facebookDescription": "Stay in the loop with Flummy on Facebook! 👍 We're bringing you the latest updates, project highlights, and a community of like-minded dreamers. Like and follow us to be a part of the Flummy family. Let's build something extraordinary together!",
+    "githubDescription": "Dive into the heart of Flummy on GitHub! 💻 Explore our open-source projects, contribute to the codebase, and be a part of the collaborative journey. Check out our repositories and join the Flummy community in shaping the future of innovation!"
+  },
+  "contactUs": "Contact us",
+  "login": "Login",
+  "signIn": "Sign in",
+  "getStarted": "Get started",
+  "pricing": "Pricing",
+  "contactSales": "Contact sales",
+  "aboutUs": "About us",
+  "helpDeskDescription": "Complete the form below to have our support team contact you. team to get in touch with you.",
+  "goToForm": "Go to form"
+}

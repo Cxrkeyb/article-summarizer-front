@@ -1,0 +1,43 @@
+{
+  "h1": "A simple example",
+  "intro": {
+    "p1": "You are one step closer to",
+    "p2": "make your dream come true",
+    "p3": "Achieve your goals and overcome your challenges with us,",
+    "p4": "we are your best option."
+  },
+  "contactUs": "Contact us",
+  "isFree": "- It's free!",
+  "digitalTransformation": {
+    "unlockDigitalTransformation": "Unlock the Power of Digital Transformation!",
+    "revolutionizeYourBusiness": "Revolutionize your business",
+    "digitalConfidence": "and navigate the digital landscape with confidence."
+  },
+  "ourCoreCapabilities": "Our Core Capabilities",
+  "webDevelopment": {
+    "title": "Web Development",
+    "description": "Crafting fast, secure, and scalable web applications tailored to your specific needs."
+  },
+  "aiConsulting": {
+    "title": "AI Consulting",
+    "description": "Guiding you through the use of artificial intelligence to enhance your processes and make informed decisions."
+  },
+  "computerVisionSolutions": {
+    "title": "Computer Vision Solutions",
+    "description": "Building advanced computer vision solutions to efficiently analyze and comprehend the visual world."
+  },
+  "nlpSolutions": {
+    "title": "Natural Language Processing (NLP) Solutions",
+    "description": "Implementing natural language processing solutions to enrich communication and interaction with your clients."
+  },
+  "generativeAISolutions": {
+    "title": "Generative AI Solutions",
+    "description": "Creating generative artificial intelligence solutions to automatically produce creative content."
+  },
+  "enterpriseSoftwareDevelopment": {
+    "title": "Enterprise Software Development",
+    "description": "Developing bespoke enterprise software that streamlines processes and propels your company's growth."
+  },
+  "pageNotFound": "The page you are looking for does not exist or is not available",
+  "goHome": "Go home"
+}

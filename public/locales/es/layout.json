@@ -1,0 +1,29 @@
+{
+  "firstSteps": "Primeros pasos",
+  "firstStepsContent": {
+    "flummy": "Flummy",
+    "flummyDescription": "Optimiza tus procesos, impulsa la eficiencia y fortalece la colaboración interna.",
+    "userGuide": "Guía de usuario",
+    "userGuideDescription": "Descubre cómo puede Flummy mejorar tus procesos.",
+    "trajectory": "Trayectoria",
+    "trajectoryDescription": "Flummy a ayudado a muchas empresas a lo largo de su trayectoria, conoce como lo hemos logrado.",
+    "vision": "Visión",
+    "visionDescription": "Conoce nuestra visión y como queremos ayudar a las empresas a ser más eficientes."
+  },
+  "community": "Comunidad",
+  "communityContent": {
+    "whatsAppDescription": "Descubre el poder de Flummy a través de WhatsApp. ¡Conversemos y llevemos tu proyecto al siguiente nivel! 🤝 Agenda una cita para explorar cómo podemos juntos convertir tus sueños en realidad. En Flummy, no solo construimos proyectos, creamos historias de éxito. ¡Únete a la conversación ahora!",
+    "instagramDescription": "¡Sumérgete en el mundo de Flummy en Instagram! 🚀 Acompáñanos en un viaje visual lleno de inspiración creativa, vistazos entre bastidores y emocionantes actualizaciones de proyectos. ¡Síguenos para mantenerte conectado con la magia de Flummy!",
+    "facebookDescription": "¡Mantente al día con Flummy en Facebook! 👍 Te traemos las últimas actualizaciones, los proyectos más destacados y una comunidad de soñadores con ideas afines. Haz clic en Me gusta y síguenos para formar parte de la familia Flummy. ¡Construyamos juntos algo extraordinario!",
+    "githubDescription": "¡Sumérgete en el corazón de Flummy en GitHub! 💻 Explora nuestros proyectos de código abierto, contribuye al código base y forma parte del viaje colaborativo. ¡Echa un vistazo a nuestros repositorios y únete a la comunidad Flummy para dar forma al futuro de la innovación!"
+  },
+  "contactUs": "Contacto",
+  "login": "Login",
+  "signIn": "Sign in",
+  "getStarted": "Get started",
+  "pricing": "Precios",
+  "contactSales": "Contacto ventas",
+  "aboutUs": "Sobre nosotros",
+  "helpDeskDescription": "Completa el formulario para que nuestro equipo de soporte se comunique contigo.",
+  "goToForm": "Ir al formulario"
+}

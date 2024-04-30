@@ -1,0 +1,76 @@
+{
+  "hiFlummy": "Hi Flummy!",
+  "questions": {
+    "name": {
+      "title": "What is your name?",
+      "placeholder": "Write your name here..."
+    },
+    "email": {
+      "title": "What is your email address?",
+      "placeholder": "Write your email here..."
+    },
+    "firstName": {
+      "title": "What is your first name?",
+      "placeholder": "Write your first name here..."
+    },
+    "lastName": {
+      "title": "What is your last name?",
+      "placeholder": "Write your last name here..."
+    },
+    "phone": {
+      "title": "What is your telephone number?",
+      "placeholder": "Enter your phone number here..."
+    },
+    "country": {
+      "title": "What country are you from?",
+      "placeholder": "Select your country"
+    },
+    "language": {
+      "title": "What language do you speak?",
+      "placeholder": "Select your language"
+    },
+    "companyName": {
+      "title": "What is your company name?",
+      "placeholder": "Write your company name here..."
+    },
+    "jobTitle": {
+      "title": "What is your job title?",
+      "placeholder": "Write your job title here..."
+    },
+    "workEmail": {
+      "title": "What is your work email?",
+      "placeholder": "Write your work email here..."
+    },
+    "howHearUs": {
+      "title": "How did you hear about us?",
+      "placeholder": "Select an option"
+    },
+    "companyType": {
+      "title": "What is your company type?",
+      "placeholder": "Select an option"
+    },
+    "companySize": {
+      "title": "How many employees does your company have?",
+      "placeholder": "Select an option"
+    },
+    "topicNeeds": {
+      "title": "What are your needs?",
+      "placeholder": "Select an option"
+    },
+    "case": {
+      "title": "What is your case?",
+      "description": "Please describe your case in detail. The more information you provide, the better we can help you.",
+      "placeholder": "Select an option"
+    }
+  },
+  "submit": "Submit",
+  "interestedIn": "Are you interested in?",
+  "anyIdeasToShare": "Any ideas to share?",
+  "anyIdeasToSharePlaceholder": "Attach a project brief or relevant material regarding to your project...",
+  "anyIdeasDescription": "Sharing ideas improves consultation and project implementation.",
+  "acceptTerms": "I accept the terms and conditions",
+  "yourAgree": "You agree to our Terms of Service and Privacy Policy.",
+  "contactSale": "Contact Sales",
+  "contactDescription": "Connect with our sales team to see how the Enterprise or Teams plans can help your team create and launch AI agents - at scale.",
+  "productSupport": "Product support? Email us at"
+}

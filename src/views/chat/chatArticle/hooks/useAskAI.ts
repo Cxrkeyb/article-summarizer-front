@@ -42,7 +42,6 @@ const useAskAI = () => {
         message: question,
         chatId: router.query.id,
       });
-      console.log('response', response);
       dispatch(
         chargeMessages({
           messages: response.chatSummary.messages,

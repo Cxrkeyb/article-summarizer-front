@@ -37,7 +37,6 @@ const MainContent = ({ children }: Props) => {
     if (loginState.isLoggedIn) return;
     axiosRequest(HttpMethods.POST, '/auth/regenerate-token', {})
       .then((response) => {
-        console.log('response', response);
         // Save the token in the local storage
         localStorage.setItem('token', response.token);
         dispatch(chargeUser({ user: response.user }));
